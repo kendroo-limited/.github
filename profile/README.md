@@ -162,16 +162,7 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 <div align="center">
 
 <!-- MEMBERS_START -->
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/orgs/kendroo-limited/people">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px;" alt="Loading..."/><br />
-<sub><b>Loading members...</b></sub>
-</a>
-</td>
-</tr>
-</table>
+<p align="center">No public members found.</p>
 <!-- MEMBERS_END -->
 
 <br>
