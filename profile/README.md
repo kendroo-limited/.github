@@ -181,6 +181,12 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 </table>
 <!-- MEMBERS_END -->
 
+<p align="center">
+<a href="https://github.com/kendroo-limited/.github/actions/workflows/update-members.yml">
+<img src="https://img.shields.io/badge/Update_Members-Click_Here-2563EB?style=for-the-badge&logo=github-actions&logoColor=white" alt="Update Members"/>
+</a>
+</p>
+
 <br>
 
 ### Join Our Team of Innovators
