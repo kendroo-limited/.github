@@ -8,24 +8,40 @@ import re
 import requests
 
 def fetch_org_members(org_name, token):
-    """Fetch public members from GitHub organization."""
-    url = f"https://api.github.com/orgs/{org_name}/members"
+    """Fetch ALL members (public and private) from GitHub organization."""
+    # Using the filter parameter to get all members regardless of visibility
+    url = f"https://api.github.com/orgs/{org_name}/members?filter=all&per_page=100"
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json"
     }
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
+    all_members = []
+    page = 1
 
-    members = response.json()
-    print(f"Found {len(members)} members")
-    return members
+    while True:
+        paginated_url = f"{url}&page={page}"
+        response = requests.get(paginated_url, headers=headers)
+        response.raise_for_status()
+
+        members = response.json()
+        if not members:
+            break
+
+        all_members.extend(members)
+        page += 1
+
+        # Break if we got fewer than 100 results (last page)
+        if len(members) < 100:
+            break
+
+    print(f"Found {len(all_members)} members (public and private)")
+    return all_members
 
 def generate_member_html(members):
     """Generate HTML table for organization members."""
     if not members:
-        return '<p align="center">No public members found.</p>'
+        return '<p align="center">No members found.</p>'
 
     # Calculate how many rows we need (3 members per row)
     members_per_row = 3
