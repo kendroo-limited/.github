@@ -7,21 +7,21 @@
 ### Empower Your Digital Success
 
 <p align="center">
-  <a href="https://kendroo.io/"><img src="https://img.shields.io/badge/🌐_Website-kendroo.io-2563EB?style=for-the-badge" alt="Website"></a>
-  <a href="mailto:info@kendroo.io"><img src="https://img.shields.io/badge/📧_Email-info@kendroo.io-DC2626?style=for-the-badge" alt="Email"></a>
+  <a href="https://kendroo.io/"><img src="https://img.shields.io/badge/Website-kendroo.io-2563EB?style=for-the-badge" alt="Website"></a>
+  <a href="mailto:info@kendroo.io"><img src="https://img.shields.io/badge/Email-info@kendroo.io-DC2626?style=for-the-badge" alt="Email"></a>
   <a href="https://www.linkedin.com/company/kendroo"><img src="https://img.shields.io/badge/LinkedIn-Kendroo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://facebook.com/kendroo.io"><img src="https://img.shields.io/badge/Facebook-@kendroo.io-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 <p align="center">
-  <strong>Innovative Technology Solutions</strong> • <strong>Software Development</strong> • <strong>Digital Marketing</strong> • <strong>AI Integration</strong>
+  <strong>Innovative Technology Solutions</strong> • <strong>Software Development</strong> • <strong>Cloud Infrastructure</strong> • <strong>AI Integration</strong>
 </p>
 
 </div>
 
 <br>
 
-## 🏢 About Kendroo Limited
+## About Kendroo Limited
 
 Kendroo Limited is a premier technology solutions provider founded in 2024, specializing in transformative digital experiences. We deliver enterprise-grade software development, cutting-edge artificial intelligence solutions, and comprehensive cloud infrastructure services to businesses worldwide.
 
@@ -29,50 +29,50 @@ Our mission is to empower organizations through innovative technology, driving d
 
 <table>
 <tr>
-<td><strong>📍 Location</strong></td>
+<td><strong>Location</strong></td>
 <td>826, East Shewrapara, Rokeya Sarani, Dhaka-1216, Bangladesh</td>
 </tr>
 <tr>
-<td><strong>📞 Phone</strong></td>
+<td><strong>Phone</strong></td>
 <td>+880 1896 274310</td>
 </tr>
 <tr>
-<td><strong>✉️ Email</strong></td>
+<td><strong>Email</strong></td>
 <td><a href="mailto:info@kendroo.io">info@kendroo.io</a></td>
 </tr>
 <tr>
-<td><strong>🌐 Website</strong></td>
+<td><strong>Website</strong></td>
 <td><a href="https://kendroo.io">kendroo.io</a></td>
 </tr>
 </table>
 
 <br>
 
-## 💼 Our Core Services
+## Our Core Services
 
 <table>
 <tr>
 <td width="50%">
 
-### 🖥️ **Software Development**
+### **Software Development**
 Custom software solutions built with scalability, security, and performance in mind. We architect intelligent systems that automate workflows, enhance productivity, and deliver exceptional user experiences.
 
-### 📱 **Mobile App Development**
+### **Mobile App Development**
 Native and cross-platform mobile applications for iOS and Android. From concept to deployment, we create engaging mobile experiences that drive user retention and business growth.
 
-### 🌐 **Web Development**
-Modern, responsive web applications utilizing the latest frameworks and technologies. We build fast, secure, and SEO-optimized websites that convert visitors into customers.
+### **Web Development**
+Modern, responsive web applications utilizing the latest frameworks and technologies. We build fast, secure, and optimized websites that convert visitors into customers.
 
 </td>
 <td width="50%">
 
-### ☁️ **Cloud & DevOps**
+### **Cloud & DevOps**
 Scalable cloud infrastructure on AWS, Azure, and GCP. We implement CI/CD pipelines, containerization, and infrastructure-as-code for reliable, automated deployments.
 
-### 🤖 **AI Integration**
+### **AI Integration**
 Harness the power of artificial intelligence and machine learning. From natural language processing to predictive analytics, we integrate AI solutions that provide competitive advantages.
 
-### 📊 **Odoo ERP Solutions**
+### **Odoo ERP Solutions**
 Complete Odoo ERP customization and implementation. Streamline your business processes with tailored ERP solutions for inventory, CRM, accounting, and more.
 
 </td>
@@ -81,40 +81,24 @@ Complete Odoo ERP customization and implementation. Streamline your business pro
 
 <br>
 
-## 📈 Digital Marketing Excellence
-
-Transform your online presence with data-driven marketing strategies:
-
-- **Search Engine Optimization (SEO)** - Increase organic visibility and drive qualified traffic
-- **Pay-Per-Click Advertising** - Targeted campaigns with measurable ROI
-- **Social Media Management** - Build engaged communities across platforms
-- **Content Marketing** - Compelling content that educates and converts
-- **Analytics & Reporting** - Actionable insights from comprehensive data analysis
-
-<br>
-
-## ⚡ Our Approach
+## Our Approach
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🎯</h3>
-<strong>Customer-Centric</strong><br>
+<strong>Customer-Centric</strong><br><br>
 Your success drives our solutions. We prioritize understanding your business goals and delivering measurable results.
 </td>
 <td align="center" width="25%">
-<h3>🚀</h3>
-<strong>Agile & Flexible</strong><br>
+<strong>Agile & Flexible</strong><br><br>
 Adaptive methodologies that respond to changing requirements while maintaining project momentum and quality.
 </td>
 <td align="center" width="25%">
-<h3>💡</h3>
-<strong>Innovation First</strong><br>
+<strong>Innovation First</strong><br><br>
 Leveraging cutting-edge technologies and industry best practices to keep you ahead of the competition.
 </td>
 <td align="center" width="25%">
-<h3>📊</h3>
-<strong>Data-Driven</strong><br>
+<strong>Data-Driven</strong><br><br>
 Strategic decisions backed by analytics, metrics, and insights that deliver quantifiable business value.
 </td>
 </tr>
@@ -122,7 +106,7 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 
 <br>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -173,7 +157,24 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 
 <br>
 
-## 🤝 Let's Build Something Extraordinary
+## Our Team
+
+<div align="center">
+
+<!-- This section automatically displays all organization members -->
+<a href="https://github.com/orgs/kendroo-limited/people">
+  <img src="https://contrib.rocks/image?repo=kendroo-limited/.github&max=100" />
+</a>
+
+### Join Our Team of Innovators
+
+We're always looking for talented individuals to join our growing team. Visit our [careers page](https://kendroo.io) to explore opportunities.
+
+</div>
+
+<br>
+
+## Let's Build Something Extraordinary
 
 Whether you're a startup with a revolutionary idea or an established enterprise seeking digital transformation, Kendroo Limited is your trusted technology partner. We combine technical excellence with business acumen to deliver solutions that drive real results.
 
@@ -184,17 +185,17 @@ Whether you're a startup with a revolutionary idea or an established enterprise 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🌐 Visit Our Website</h3>
+<strong>Visit Our Website</strong><br><br>
 <a href="https://kendroo.io"><strong>kendroo.io</strong></a><br>
 Explore our portfolio and services
 </td>
 <td align="center" width="33%">
-<h3>📧 Email Us</h3>
+<strong>Email Us</strong><br><br>
 <a href="mailto:info@kendroo.io"><strong>info@kendroo.io</strong></a><br>
 Get a free consultation today
 </td>
 <td align="center" width="33%">
-<h3>📱 Call Us</h3>
+<strong>Call Us</strong><br><br>
 <strong>+880 1896 274310</strong><br>
 Speak with our expert team
 </td>
@@ -217,7 +218,7 @@ Speak with our expert team
 
 <div align="center">
 
-### 💎 Our Mission
+### Our Mission
 
 *"Combining innovative software development, AI integration, and cutting-edge cloud solutions to drive your business forward"*
 
@@ -227,6 +228,6 @@ Speak with our expert team
 
 <br>
 
-Made with ❤️ in Dhaka, Bangladesh 🇧🇩
+Dhaka, Bangladesh
 
 </div>
