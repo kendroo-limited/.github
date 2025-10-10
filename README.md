@@ -163,7 +163,7 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 
 <!-- This section automatically displays all organization members -->
 <a href="https://github.com/orgs/kendroo-limited/people">
-  <img src="https://contrib.rocks/image?repo=kendroo-limited/.github&max=100" />
+  <img src="https://contrib.rocks/image?org=kendroo-limited" alt="Organization Members" />
 </a>
 
 ### Join Our Team of Innovators
