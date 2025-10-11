@@ -30,7 +30,7 @@ jobs:
 
       - name: Fetch and update members
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ORG_MEMBERS_PAT }}
           ORG_NAME: kendroo-limited
         run: |
           python .github/scripts/update_members.py
