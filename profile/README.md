@@ -197,11 +197,21 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 </a>
 </td>
 <td align="center" width="33%">
+<a href="https://github.com/RumkyFahmida">
+<img src="https://avatars.githubusercontent.com/u/123887980?v=4" width="100px;" alt="RumkyFahmida"/><br />
+<sub><b>@RumkyFahmida</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/tovfikur">
 <img src="https://avatars.githubusercontent.com/u/20622805?v=4" width="100px;" alt="tovfikur"/><br />
 <sub><b>@tovfikur</b></sub>
 </a>
 </td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
 </tr>
 </table>
 <!-- MEMBERS_END -->
