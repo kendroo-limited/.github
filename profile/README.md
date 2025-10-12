@@ -171,26 +171,31 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 </a>
 </td>
 <td align="center" width="33%">
+<a href="https://github.com/JimmYCHUU">
+<img src="https://avatars.githubusercontent.com/u/180779647?v=4" width="100px;" alt="JimmYCHUU"/><br />
+<sub><b>@JimmYCHUU</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/KhanShadman06">
 <img src="https://avatars.githubusercontent.com/u/94983826?v=4" width="100px;" alt="KhanShadman06"/><br />
 <sub><b>@KhanShadman06</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/RAKIB6348">
 <img src="https://avatars.githubusercontent.com/u/173651295?v=4" width="100px;" alt="RAKIB6348"/><br />
 <sub><b>@RAKIB6348</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="33%">
 <a href="https://github.com/tovfikur">
 <img src="https://avatars.githubusercontent.com/u/20622805?v=4" width="100px;" alt="tovfikur"/><br />
 <sub><b>@tovfikur</b></sub>
 </a>
 </td>
-<td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
 </tr>
 </table>
