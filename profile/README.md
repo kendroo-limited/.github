@@ -205,12 +205,17 @@ Strategic decisions backed by analytics, metrics, and insights that deliver quan
 </tr>
 <tr>
 <td align="center" width="33%">
+<a href="https://github.com/Shithi498">
+<img src="https://avatars.githubusercontent.com/u/101502082?v=4" width="100px;" alt="Shithi498"/><br />
+<sub><b>@Shithi498</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/tovfikur">
 <img src="https://avatars.githubusercontent.com/u/20622805?v=4" width="100px;" alt="tovfikur"/><br />
 <sub><b>@tovfikur</b></sub>
 </a>
 </td>
-<td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
 </tr>
 </table>
